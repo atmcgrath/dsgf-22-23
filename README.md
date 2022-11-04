@@ -25,3 +25,7 @@ This repository contains files and information for and by participants in the 20
 - 12/16/22
 
 - Spring sessions TBD
+
+### Other notes
+
+Hello, world!
